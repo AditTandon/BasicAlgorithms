@@ -1,13 +1,8 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package ArraySorting;
 
 /**
  *
- * @author lpuad
+ * Adit Tandon
  * Simple selection sort exercise to help me practice sorting an array
  */
 public class SelectionSort {
